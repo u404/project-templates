@@ -1,0 +1,320 @@
+{
+  "keys": "D:\\testProjects\\toolkit-ops-test\\config\\config.default.js",
+  "middleware": "D:\\testProjects\\toolkit-ops-test\\config\\config.default.js",
+  "security": {
+    "csrf": {
+      "cookieName": "D:\\testProjects\\toolkit-ops-test\\config\\config.default.js",
+      "enable": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "type": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "ignoreJSON": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "useSession": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "sessionName": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "headerName": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "bodyName": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "queryName": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "refererWhiteList": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "domainWhiteList": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "protocolWhiteList": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "defaultMiddleware": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "xframe": {
+      "enable": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.local.js",
+      "maxAge": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "includeSubdomains": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "policy": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "checkAddress": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    }
+  },
+  "session": {
+    "maxAge": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js",
+    "key": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js",
+    "httpOnly": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js",
+    "encrypt": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js"
+  },
+  "helper": {
+    "shtml": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "callback": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "csrf": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "templatePath": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "dirs": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "queryField": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieField": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieDomain": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.default.js",
+      "development": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js",
+      "file": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "autoFields": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "defaultCharset": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fieldSize": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fields": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fileSize": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "files": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fileExtensions": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "whitelist": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "tmpdir": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-development@2.5.0@egg-development\\config\\config.default.js",
+    "ignoreDirs": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-development@2.5.0@egg-development\\config\\config.default.js",
+    "fastReady": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-development@2.5.0@egg-development\\config\\config.default.js",
+    "reloadOnDebug": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-development@2.5.0@egg-development\\config\\config.default.js",
+    "overrideDefault": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-development@2.5.0@egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFiles": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxDays": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_@sc_ops-core@1.1.23@@sc\\ops-core\\config\\config.default.js",
+    "dir": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_@sc_ops-core@1.1.23@@sc\\ops-core\\config\\config.default.js",
+    "dynamic": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "preload": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "buffer": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "maxFiles": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "cache": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.local.js",
+    "defaultExtension": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "defaultViewEngine": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_@sc_ops-core@1.1.23@@sc\\ops-core\\config\\config.default.js",
+    "mapping": {
+      ".tpl": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_@sc_ops-core@1.1.23@@sc\\ops-core\\config\\config.default.js"
+    }
+  },
+  "webpack": {
+    "output": {
+      "path": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_@sc_ops-webpack-dva@1.1.28@@sc\\ops-webpack-dva\\config\\config.default.js",
+      "filename": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_@sc_ops-webpack-dva@1.1.28@@sc\\ops-webpack-dva\\config\\config.default.js",
+      "chunkFilename": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_@sc_ops-webpack-dva@1.1.28@@sc\\ops-webpack-dva\\config\\config.default.js",
+      "publicPath": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_@sc_ops-webpack-dva@1.1.28@@sc\\ops-webpack-dva\\config\\config.local.js"
+    },
+    "resolve": {
+      "modules": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_@sc_ops-webpack-dva@1.1.28@@sc\\ops-webpack-dva\\config\\config.default.js",
+      "extensions": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_@sc_ops-webpack-dva@1.1.28@@sc\\ops-webpack-dva\\config\\config.default.js",
+      "alias": {
+        "@": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_@sc_ops-webpack-dva@1.1.28@@sc\\ops-webpack-dva\\config\\config.default.js",
+        "_components": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_@sc_ops-webpack-dva@1.1.28@@sc\\ops-webpack-dva\\config\\config.default.js",
+        "_layouts": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_@sc_ops-webpack-dva@1.1.28@@sc\\ops-webpack-dva\\config\\config.default.js",
+        "_pages": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_@sc_ops-webpack-dva@1.1.28@@sc\\ops-webpack-dva\\config\\config.default.js",
+        "_assets": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_@sc_ops-webpack-dva@1.1.28@@sc\\ops-webpack-dva\\config\\config.default.js",
+        "_routes": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_@sc_ops-webpack-dva@1.1.28@@sc\\ops-webpack-dva\\config\\config.default.js",
+        "_utils": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_@sc_ops-webpack-dva@1.1.28@@sc\\ops-webpack-dva\\config\\config.default.js",
+        "_store": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_@sc_ops-webpack-dva@1.1.28@@sc\\ops-webpack-dva\\config\\config.default.js",
+        "_next": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_@sc_ops-webpack-dva@1.1.28@@sc\\ops-webpack-dva\\config\\config.default.js"
+      }
+    },
+    "devServer": {
+      "headers": {
+        "access-control-allow-origin": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_@sc_ops-webpack-dva@1.1.28@@sc\\ops-webpack-dva\\config\\config.default.js"
+      }
+    }
+  },
+  "nunjucks": {
+    "autoescape": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_@sc_ops-egg-view@1.0.21@@sc\\ops-egg-view\\config\\config.default.js",
+    "throwOnUndefined": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_@sc_ops-egg-view@1.0.21@@sc\\ops-egg-view\\config\\config.default.js",
+    "trimBlocks": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_@sc_ops-egg-view@1.0.21@@sc\\ops-egg-view\\config\\config.default.js",
+    "lstripBlocks": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_@sc_ops-egg-view@1.0.21@@sc\\ops-egg-view\\config\\config.default.js",
+    "cache": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_@sc_ops-egg-view@1.0.21@@sc\\ops-egg-view\\config\\config.local.js",
+    "assetHost": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_@sc_ops-egg-view@1.0.21@@sc\\ops-egg-view\\config\\config.default.js",
+    "assetPath": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_@sc_ops-egg-view@1.0.21@@sc\\ops-egg-view\\config\\config.default.js",
+    "assetStamp": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_@sc_ops-egg-view@1.0.21@@sc\\ops-egg-view\\config\\config.default.js"
+  },
+  "env": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_@sc_ops-core@1.1.23@@sc\\ops-core\\config\\config.default.js",
+  "name": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+  "cookies": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+  "proxy": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+  "maxIpsCount": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+  "maxProxyCount": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+  "protocolHeaders": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+  "ipHeaders": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+  "hostHeaders": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+  "pkg": {
+    "name": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "version": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "description": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "private": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "dependencies": {
+      "@sc/ops-cli": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "@sc/ops-core": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "@sc/ops-webpack-dva": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "axios": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "@sc/eslint-config-ops": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "eslint": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js"
+    },
+    "scripts": {
+      "start": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "stop": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "lint": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "url": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js"
+    }
+  },
+  "baseDir": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+  "HOME": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+  "rundir": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_@sc_ops-core@1.1.23@@sc\\ops-core\\config\\config.default.js",
+  "dump": {
+    "ignore": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "notFound": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "sitefile": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "middlewares": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "httpClient": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "encoding": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "formLimit": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "jsonLimit": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "textLimit": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "strict": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "depth": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "parameterLimit": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js"
+    },
+    "onerror": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "encoding": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "env": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "level": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "consoleLevel": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "outputJSON": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "buffer": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "appLogName": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "coreLogName": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "agentLogName": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "errorLogName": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "request": {
+      "timeout": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "maxSockets": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "maxSockets": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "logging": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_@sc_ops-core@1.1.23@@sc\\ops-core\\config\\config.default.js",
+  "workerStartTimeout": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+  "serverTimeout": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "port": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+      "hostname": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+    "responseTimeout": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js"
+  },
+  "onClientError": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_egg@2.26.1@egg\\config\\config.default.js",
+  "source": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_@sc_ops-core@1.1.23@@sc\\ops-core\\config\\config.default.js",
+  "dist": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_@sc_ops-core@1.1.23@@sc\\ops-core\\config\\config.default.js",
+  "core": {
+    "name": "D:\\testProjects\\toolkit-ops-test\\node_modules\\_@sc_ops-core@1.1.23@@sc\\ops-core\\config\\config.default.js"
+  }
+}

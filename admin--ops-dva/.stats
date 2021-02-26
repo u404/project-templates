@@ -1,0 +1,52 @@
+Hash: c4598c04efda86d1a301
+Version: webpack 4.28.1
+Time: 53351ms
+Built at: 2020-06-24 10:10:21 ├F10: AM┤
+              Asset       Size  Chunks             Chunk Names
+      1.c4598c04.js  284 bytes       1  [emitted]  
+      2.c4598c04.js  493 bytes       2  [emitted]  
+asset-manifest.json  128 bytes          [emitted]  
+           main.css    459 KiB       0  [emitted]  main
+            main.js    161 KiB       0  [emitted]  main
+Entrypoint main = main.css main.js
+  [1] external "React" 42 bytes {0} [built]
+  [2] ./node_modules/_invariant@2.2.4@invariant/browser.js 1.35 KiB {0} [built]
+  [6] ./node_modules/_@babel_runtime@7.0.0-beta.46@@babel/runtime/helpers/interopRequireDefault.js 145 bytes {0} [built]
+ [17] ./node_modules/_@babel_runtime@7.0.0-beta.46@@babel/runtime/helpers/objectSpread.js 873 bytes {0} [built]
+ [26] ./node_modules/_dva@2.4.1@dva/router.js 105 bytes {0} [built]
+ [37] ./node_modules/_dva@2.4.1@dva/index.js 91 bytes {0} [built]
+ [74] ./node_modules/_@babel_runtime@7.10.2@@babel/runtime/regenerator/index.js 49 bytes {0} [built]
+[101] ./node_modules/_react-redux@5.0.7@react-redux/es/index.js + 14 modules 37.7 KiB {0} [built]
+      | ./node_modules/_react-redux@5.0.7@react-redux/es/index.js 229 bytes [built]
+      | ./node_modules/_react-redux@5.0.7@react-redux/es/components/Provider.js 3.06 KiB [built]
+      | ./node_modules/_react-redux@5.0.7@react-redux/es/components/connectAdvanced.js 14 KiB [built]
+      | ./node_modules/_react-redux@5.0.7@react-redux/es/connect/connect.js 5.27 KiB [built]
+      | ./node_modules/_react-redux@5.0.7@react-redux/es/utils/PropTypes.js 428 bytes [built]
+      | ./node_modules/_react-redux@5.0.7@react-redux/es/utils/warning.js 640 bytes [built]
+      | ./node_modules/_react-redux@5.0.7@react-redux/es/utils/Subscription.js 2.59 KiB [built]
+      | ./node_modules/_react-redux@5.0.7@react-redux/es/utils/shallowEqual.js 676 bytes [built]
+      | ./node_modules/_react-redux@5.0.7@react-redux/es/connect/mapDispatchToProps.js 915 bytes [built]
+      | ./node_modules/_react-redux@5.0.7@react-redux/es/connect/mapStateToProps.js 504 bytes [built]
+      | ./node_modules/_react-redux@5.0.7@react-redux/es/connect/mergeProps.js 1.61 KiB [built]
+      | ./node_modules/_react-redux@5.0.7@react-redux/es/connect/selectorFactory.js 4.02 KiB [built]
+      | ./node_modules/_react-redux@5.0.7@react-redux/es/utils/verifyPlainObject.js 313 bytes [built]
+      | ./node_modules/_react-redux@5.0.7@react-redux/es/connect/wrapMapToProps.js 2.73 KiB [built]
+      | ./node_modules/_react-redux@5.0.7@react-redux/es/connect/verifySubselectors.js 764 bytes [built]
+[103] ./src/router.js + 2 modules 1.74 KiB {0} [built]
+      | ./src/router.js 478 bytes [built]
+      | ./src/App.jsx 553 bytes [built]
+      | ./src/routes.js 733 bytes [built]
+[107] multi ./src/index.js 28 bytes {0} [built]
+[108] ./src/index.scss 39 bytes {0} [built]
+[109] ./node_modules/_dva@2.4.1@dva/lib/index.js 3.87 KiB {0} [built]
+[218] ./src/index.js + 1 modules 1.97 KiB {0} [built]
+      | ./src/index.js 1.19 KiB [built]
+      | ./src/models/count.js 781 bytes [built]
+  [] css ./node_modules/_css-loader@2.1.1@css-loader/dist/cjs.js??ref--6-oneOf-4-1!./node_modules/_postcss-loader@3.0.0@postcss-loader/src??postcss!./node_modules/_sass-loader@7.3.1@sass-loader/dist/cjs.js!./node_modules/_@sc_antd@0.0.4@@sc/antd/dist/antd.css 476 KiB {0}
+  [] css ./node_modules/_css-loader@2.1.1@css-loader/dist/cjs.js??ref--6-oneOf-4-1!./node_modules/_postcss-loader@3.0.0@postcss-loader/src??postcss!./node_modules/_sass-loader@7.3.1@sass-loader/dist/cjs.js!./src/index.scss 90 bytes {0}
+    + 208 hidden modules
+Child mini-css-extract-plugin node_modules/_css-loader@2.1.1@css-loader/dist/cjs.js??ref--6-oneOf-4-1!node_modules/_postcss-loader@3.0.0@postcss-loader/src/index.js??postcss!node_modules/_sass-loader@7.3.1@sass-loader/dist/cjs.js!src/index.scss:
+    Entrypoint mini-css-extract-plugin = *
+    [0] ./node_modules/_css-loader@2.1.1@css-loader/dist/runtime/api.js 2.35 KiB {0} [built]
+    [1] ./node_modules/_css-loader@2.1.1@css-loader/dist/cjs.js??ref--6-oneOf-4-1!./node_modules/_postcss-loader@3.0.0@postcss-loader/src??postcss!./node_modules/_sass-loader@7.3.1@sass-loader/dist/cjs.js!./src/index.scss 521 bytes {0} [built]
+    [2] ./node_modules/_css-loader@2.1.1@css-loader/dist/cjs.js??ref--6-oneOf-4-1!./node_modules/_postcss-loader@3.0.0@postcss-loader/src??postcss!./node_modules/_sass-loader@7.3.1@sass-loader/dist/cjs.js!./node_modules/_@sc_antd@0.0.4@@sc/antd/dist/antd.css 476 KiB {0} [built]
